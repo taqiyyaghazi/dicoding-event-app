@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+
+    <!-- Navigation Titles -->
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_detail_event">Detail Event</string>
+
+    <!-- Home Headings -->
+    <string name="upcoming_events_heading">Event Akan Datang</string>
+    <string name="finished_events_heading">Event Telah Selesai</string>
+    <string name="favorite_events_heading">Event Favorit</string>
+
+    <!-- Search -->
+    <string name="search_event_hint">Cari event dicoding...</string>
+    <string name="search_no_results">Tidak ada event yang ditemukan</string>
+
+    <!-- Detail Event -->
+    <string name="event_organizer_label">Diselenggarakan oleh: %1$s</string>
+    <string name="event_begin_time_label">Waktu: %1$s</string>
+    <string name="event_remaining_quota_label">Sisa Kuota: %1$d peserta</string>
+    <string name="btn_open_link">Buka Tautan Acara</string>
+    <string name="favorite_added">Berhasil ditambahkan ke favorit</string>
+    <string name="favorite_removed">Dihapus dari favorit</string>
+
+    <!-- Settings -->
+    <string name="setting_theme_title">Tema Gelap (Dark Mode)</string>
+    <string name="setting_theme_desc">Ubah tampilan aplikasi menjadi tema gelap</string>
+    <string name="setting_reminder_title">Pengingat Harian (Daily Reminder)</string>
+    <string name="setting_reminder_desc">Kirim notifikasi setiap hari untuk event terdekat</string>
+
+    <!-- Error & States -->
+    <string name="error_loading_data">Gagal memuat data. Periksa koneksi internet Anda.</string>
+    <string name="empty_favorite_message">Belum ada event favorit yang disimpan.</string>
+</resources>
